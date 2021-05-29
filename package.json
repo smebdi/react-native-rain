@@ -10,7 +10,7 @@
     "braces": "^3.0.2",
     "react": "16.8.3",
     "react-native": "0.59.9",
-    "ws": "^7.0.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@babel/core": "7.4.5",
